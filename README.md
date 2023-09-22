@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdu Saleem</h1>
 <h3 align="center">A passionate Flutter Developer From Kerala,India</h3>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlpdjUycm50aGEydWswcTVsdXRsYzNiYXoxYmo5Zjd3bTNid2d0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Image description" align="right" width="400">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlpdjUycm50aGEydWswcTVsdXRsYzNiYXoxYmo5Zjd3bTNid2d0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Image description" align="right" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saleem-x&label=Profile%20views&color=0e75b6&style=flat" alt="saleem-x" /> </p>
